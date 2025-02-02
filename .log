@@ -1,0 +1,294 @@
+2025-01-31 12:50:19,076 [3540] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2025-01-31 12:50:19,076 [3540] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2025-01-31 12:50:19,077 [3540] INFO     root:247: [JupyterRequire] Initializing comms.
+2025-01-31 12:50:19,079 [3540] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2025-01-31 12:50:19,079 [3540] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2025-01-31 12:50:19,079 [3540] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2025-01-31 12:53:41,617 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 12:56:16,553 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 12:56:16,616 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 12:56:16,686 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 12:56:16,742 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 12:56:16,814 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 12:56:16,874 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:05:29,488 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:05:29,546 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:05:29,608 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:05:29,667 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:05:29,728 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:05:29,786 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:05:29,845 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:05:29,903 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:05:29,961 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:05:55,373 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:05:55,434 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:05:55,491 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:05:55,551 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:05:55,608 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:05:55,667 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:05:55,729 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:05:55,795 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:05:55,853 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:06:29,310 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:08:16,825 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:08:16,937 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:08:17,011 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:08:17,072 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:08:17,131 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:08:17,192 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:08:17,249 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:08:17,310 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:08:17,374 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:08:17,438 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:09:30,831 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:09:52,471 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:10:32,181 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:10:49,496 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:10:57,320 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:11:13,021 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:12:02,114 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:12:10,183 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:13:57,560 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:13:59,042 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:14:34,085 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:16:00,759 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:16:00,938 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:16:01,099 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:16:01,285 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:16:01,720 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:16:02,622 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:16:02,680 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:16:02,737 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:16:02,796 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:16:02,854 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:16:02,914 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:16:02,971 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:16:03,029 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:16:03,089 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:16:38,354 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:17:07,880 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:19:28,006 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:19:28,063 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:19:28,176 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:19:28,237 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:19:28,296 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:19:28,353 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:19:28,411 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:19:28,481 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:19:28,539 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:22:00,190 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:38:21,027 [3540] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2025-01-31 13:38:21,028 [3540] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2025-01-31 13:38:21,028 [3540] INFO     root:247: [JupyterRequire] Initializing comms.
+2025-01-31 13:38:21,035 [3540] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2025-01-31 13:38:21,037 [3540] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2025-01-31 13:38:21,038 [3540] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2025-01-31 13:58:33,803 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:58:33,888 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:58:33,967 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:58:34,050 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:58:34,129 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:58:34,214 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:58:34,297 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:58:34,382 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 13:58:34,470 [3540] WARNING  py.warnings:109: [JupyterRequire] C:\Program Files\Python39\lib\site-packages\openpyxl\worksheet\_reader.py:329: UserWarning: Data Validation extension is not supported and will be removed
+  warn(msg)
+
+2025-01-31 14:41:36,110 [19156] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2025-01-31 14:41:36,111 [19156] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2025-01-31 14:41:36,111 [19156] INFO     root:247: [JupyterRequire] Initializing comms.
+2025-01-31 14:41:36,113 [19156] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2025-01-31 14:41:36,114 [19156] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2025-01-31 14:41:36,114 [19156] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2025-01-31 14:43:02,630 [12028] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2025-01-31 14:43:02,630 [12028] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2025-01-31 14:43:02,630 [12028] INFO     root:247: [JupyterRequire] Initializing comms.
+2025-01-31 14:43:02,632 [12028] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2025-01-31 14:43:02,632 [12028] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2025-01-31 14:43:02,633 [12028] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2025-01-31 15:05:01,228 [12028] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2025-01-31 15:05:01,229 [12028] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2025-01-31 15:05:01,229 [12028] INFO     root:247: [JupyterRequire] Initializing comms.
+2025-01-31 15:05:01,240 [12028] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2025-01-31 15:05:01,241 [12028] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2025-01-31 15:05:01,242 [12028] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2025-01-31 20:21:14,913 [16264] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2025-01-31 20:21:14,914 [16264] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2025-01-31 20:21:14,914 [16264] INFO     root:247: [JupyterRequire] Initializing comms.
+2025-01-31 20:21:14,916 [16264] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2025-01-31 20:21:14,916 [16264] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2025-01-31 20:21:14,916 [16264] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2025-01-31 20:21:27,874 [12644] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2025-01-31 20:21:27,875 [12644] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2025-01-31 20:21:27,875 [12644] INFO     root:247: [JupyterRequire] Initializing comms.
+2025-01-31 20:21:27,877 [12644] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2025-01-31 20:21:27,877 [12644] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2025-01-31 20:21:27,878 [12644] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2025-01-31 21:10:56,023 [12644] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2025-01-31 21:10:56,023 [12644] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2025-01-31 21:10:56,023 [12644] INFO     root:247: [JupyterRequire] Initializing comms.
+2025-01-31 21:10:56,026 [12644] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2025-01-31 21:10:56,026 [12644] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2025-01-31 21:10:56,027 [12644] DEBUG    root:97: [JupyterRequire] Registering comm targets.
